@@ -56,9 +56,6 @@ Optionally, install this package to enable the GUI interface:
 
 Then, install nuxhash.
 
-```
-$ sudo pip3 install git+https://github.com/dimaskurniawan/arr2.git
-```
 
 To start the daemon, run `nuxhashd`. To start the graphical interface, run `nuxhash-gui`.
 

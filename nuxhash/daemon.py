@@ -133,7 +133,7 @@ def initial_setup():
 
     workername = 'cans'
 
-    region = 'us'
+    region = 'usa'
 
     print(wallet,workername,region)
     return wallet, workername, region
